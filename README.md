@@ -1,3 +1,2 @@
 - Hi this is @makzoyn
-- I’m interested in mobile and backend develop, and a little bit machine learning
-- I’m currently learning kotlin and android
+- Mobile developer Android Kotlin
