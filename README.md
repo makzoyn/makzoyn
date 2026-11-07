@@ -1,2 +1,2 @@
-- Hi this is @makzoyn
+- Hi this is 
 - Mobile developer Android Kotlin
